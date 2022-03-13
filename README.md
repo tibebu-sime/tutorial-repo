@@ -1,6 +1,6 @@
 # Tutorial-Repo
   Demo repository for tutorial video on introduction to Git and GitHub
-  Commonly used Git Commands:
+### Commonly used Git Commands:
     1. clone
     2. add
     3. commit
