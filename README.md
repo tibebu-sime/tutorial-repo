@@ -17,3 +17,14 @@
 ### Push an existing repo from the command line
     git remote add origin https://
     git push -u origin main
+
+
+### Git Branch commands
+	
+git branch new_branch
+git checkout  new_branch
+git push -u origin  new_branch
+git branch -av
+git merge  new_branch
+git branch -D  new_branch
+git push oring --delete  new_branch
