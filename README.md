@@ -7,13 +7,13 @@
     4. push
     5. pull
 
-## Create a new repo on the command line
+### Create a new repo on the command line
     git init
     git add README.md
     git remote add origin https://
     git push -u origin main
 
 
-## Push an existing repo from the command line
+### Push an existing repo from the command line
     git remote add origin https://
     git push -u origin main
